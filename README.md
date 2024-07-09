@@ -1,2 +1,2 @@
 # git-watcher-remote-test
-bazinga
+bazinga2
